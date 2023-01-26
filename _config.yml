@@ -1,1 +1,13 @@
+title: Janik-ux
+author:
+  name: Janik
+  # email: your-email@domain.com
+description: >
+  Janik-ux's homepage.
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github,         user_url: "https://github.com/Janik-ux" }
+    - { platform: mastodon,       user_url: "https://mastodon.social/j4l4"}
+
 
